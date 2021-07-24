@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antak108
 - 👀 I’m interested in Information Security
-- 🌱 I’m currently learning Priv Esc/Persistance/Python
+- 🌱 I’m currently learning Priv Esc/Persistence/Python
 - 💞️ I’m looking to collaborate on Python for Offsec
 - 📫 How to reach me twitter @Antak108
 
